@@ -1,0 +1,26 @@
+﻿[
+  {
+    "name": "Whiskers",
+    "species" : "kate",
+    "foods": {
+      "likes": ["zuvi", "braskes"],
+      "dislikes": ["morkas"]
+    }
+  },
+  {
+    "name": "Woof",
+    "species" : "suo",
+    "foods": {
+      "likes": ["sunu maista"],
+      "dislikes": ["kaciu maisto"]
+    }
+  },
+  {
+    "name": "Fluffy",
+    "species" : "kate",
+    "foods": {
+      "likes": ["slapia maista"],
+      "dislikes": ["sausa maista"]
+    }
+  }
+]

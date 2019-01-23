@@ -1,0 +1,26 @@
+﻿[
+  {
+    "name": "Kitty",
+    "species" : "kate",
+    "foods": {
+      "likes": ["sviezia maista"],
+      "dislikes": ["pagedusi maista"]
+    }
+  },
+  {
+    "name": "Pupster",
+    "species" : "suo",
+    "foods": {
+      "likes": ["pomidorus", "pupeles"],
+      "dislikes": ["duona"]
+    }
+  },
+  {
+    "name": "Tux",
+    "species" : "kate",
+    "foods": {
+      "likes": ["prabangius patiekalus"],
+      "dislikes": ["pigius kaciu patiekalus"]
+    }
+  }
+]

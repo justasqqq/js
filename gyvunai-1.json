@@ -1,0 +1,26 @@
+﻿[
+  {
+    "name": "Tika",
+    "species" : "katinas",
+    "foods": {
+      "likes": ["tuna", "kaciuedalas"],
+      "dislikes": ["mesa", "suris"]
+    }
+  },
+  {
+    "name": "Berklis",
+    "species" : "suo",
+    "foods": {
+      "likes": ["kaulus", "morkas"],
+      "dislikes": ["tuna"]
+    }
+  },
+  {
+    "name": "Purrpaws",
+    "species" : "kate",
+    "foods": {
+      "likes": ["peles"],
+      "dislikes": ["sausainius"]
+    }
+  }
+]
